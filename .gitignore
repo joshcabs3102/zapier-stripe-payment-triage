@@ -1,0 +1,14 @@
+# Dependency directories
+node_modules/
+
+# Environment files
+.env
+.env.local
+
+# Zapier build and configuration artifacts
+build/
+.zapierapprc
+
+# Operating System Files
+.DS_Store
+Thumbs.db
