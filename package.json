@@ -1,0 +1,20 @@
+{
+  "name": "zapier-stripe-payment-triage",
+  "version": "1.0.2",
+  "description": "Enterprise payment failure triage combining Stripe, Supabase, Slack, and Postmark",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --testTimeout 10000"
+  },
+  "dependencies": {
+    "zapier-platform-core": "19.1.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "private": true,
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  }
+}
